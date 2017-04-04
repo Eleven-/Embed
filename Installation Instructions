@@ -1,0 +1,26 @@
+Course Information
+------------------------------------------------------------------------------
+  https://courses.edx.org/courses/course-v1:UTAustinX+UT.6.03x+1T2016/info
+  Select Audit Course
+
+Installation Instructions
+------------------------------------------------------------------------------
+http://edx-org-utaustinx.s3.amazonaws.com/UT601x/download.html
+
+Directions Here!!
+https://www.keil.com/demo/eval/armv4.htm
+
+Description of Installation
+Part a) The first step is to install the Keil uVision integrated development environment (IDE) for the ARM. 
+        This IDE includes the editor, compiler, simulator, and debugger. 
+        The MDK-Lite (32KB) Edition does not require a serial number or license key.
+
+Part b) The second step is install Test EXecute and Simulate (TExaS). 
+        TExaS is a set of enhancements to Keil that will serve as your helper and grader during this course. 
+         This installation will also setup the example projects and starter files for labs.
+
+Part c) The third step will be to install the hardware device drivers for your LaunchPad. 
+        You will need the LaunchPad hardware to perform this step. 
+        If you do not have it yet or do not plan to buy the hardware kit, you can skip this step and perform the labs in simulation.
+
+
